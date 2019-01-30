@@ -1,4 +1,4 @@
-# PyCity-Schools-Analysis
+# PyCity Schools Analysis
 An analysis of simulated district-wide standardized test results, using python, pandas, and Jupyter.
 
 The dataset is camprosed of every student's math and reading scores, as well as various information on the schools they attend. The datas was aggregated to showcase obvious and underlying trends in school performance. The final report includes:
